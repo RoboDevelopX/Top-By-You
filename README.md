@@ -6,6 +6,3 @@ Find top products ranked by you
 
 ![](client/public/login_screen.png)
 
-### Designed and Developed by
-
-https://gustavozapata.me
